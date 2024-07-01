@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheBestProgramma
-- 👀 I’m interested in coding php projects
-- 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on social media apps
+- 👋 Hi, I’m Solomon Kiptoo
+- 👀 I’m interested in PHP Projects
+- 🌱 I’m using Laravel 11(_updated)
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me @kiptoosolomon07@gmail.com
 
 <!---
